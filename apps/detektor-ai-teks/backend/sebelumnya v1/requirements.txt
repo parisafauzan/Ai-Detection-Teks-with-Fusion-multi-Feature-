@@ -1,0 +1,15 @@
+# Backend Detektor Teks AI Indonesia
+# CATATAN PENTING: versi scikit-learn & catboost sebaiknya SAMA dengan
+# lingkungan tempat model .joblib dilatih, agar pickle-nya kompatibel.
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+numpy
+pandas
+scikit-learn==1.9.0
+catboost==1.2.10
+torch
+transformers
+Sastrawi
+# sentencepiece  # aktifkan jika tokenizer meminta sentencepiece

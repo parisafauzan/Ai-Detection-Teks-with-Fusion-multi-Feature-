@@ -1,0 +1,5 @@
+Kategori kesalahan CatBoost,Jumlah,Persentase
+Sulit (semua model salah),66,68%
+Tertolong Random Forest saja,20,21%
+Tertolong XGBoost & Random Forest,8,8%
+Tertolong XGBoost saja,3,3%

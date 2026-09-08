@@ -1,0 +1,4 @@
+﻿Model,Akurasi,Akurasi Manusia,Akurasi AI,Presisi Manusia,Presisi AI,F1-macro,ROC-AUC,FP,FN
+CatBoost,0.9838,0.9866,0.981,0.981,0.9866,0.9838,0.9983,40,57
+XGBoost,0.9828,0.9872,0.9783,0.9784,0.9872,0.9828,0.9986,38,65
+Random Forest,0.9722,0.9819,0.9627,0.9631,0.9816,0.9722,0.9967,54,112

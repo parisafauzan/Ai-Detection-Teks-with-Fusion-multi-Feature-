@@ -1,0 +1,4 @@
+Kelompok dokumen,Jumlah pasangan,Cosine (kata),Jaccard,Tumpang-tindih 5-gram verbatim
+Seluruh pasangan (baseline),2999,0.504,0.159,0.001
+Kesalahan 'sulit' (salah di ketiga model),66,0.52,0.163,0.002
+Kesalahan dapat dipulihkan,31,0.567,0.17,0.001

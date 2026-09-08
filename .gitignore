@@ -1,0 +1,60 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+ENV/
+**/.venv/
+**/venv/
+**/env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Node.js and frontend build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+build/
+**/build/
+.vite/
+**/.vite/
+coverage/
+*.tsbuildinfo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Model and dataset caches generated at runtime
+.cache/
+**/.cache/
+huggingface_cache/
+**/huggingface_cache/
+features_cache*/
+**/features_cache*/
+catboost_info/
+**/catboost_info/
+
+# Generated temporary files and logs
+*.log
+*.tmp
+*.temp
+*.bak
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local application artifacts and exports
+apps/**/backend/artifacts/*.tmp
+apps/**/backend/uploads/

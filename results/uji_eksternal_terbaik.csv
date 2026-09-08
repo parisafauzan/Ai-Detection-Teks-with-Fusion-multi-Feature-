@@ -1,0 +1,2 @@
+kombinasi,model,TN,FP,FN,TP,akurasi,f1_AI,presisi_AI,recall_AI,roc_auc
+sty+tfidf+bert+perp,CatBoost,805,15,7,813,0.9866,0.9867,0.9819,0.9915,0.9992

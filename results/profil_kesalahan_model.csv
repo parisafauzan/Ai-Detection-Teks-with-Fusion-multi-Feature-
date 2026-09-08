@@ -1,0 +1,4 @@
+Model,Total salah,FP (manusia->AI),FN (AI->manusia),F1-macro
+Random Forest,166,54,112,0.9722
+XGBoost,103,38,65,0.9828
+CatBoost,97,40,57,0.9838
