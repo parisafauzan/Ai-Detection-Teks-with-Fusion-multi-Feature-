@@ -58,3 +58,9 @@ Thumbs.db
 # Local application artifacts and exports
 apps/**/backend/artifacts/*.tmp
 apps/**/backend/uploads/
+
+notebooks/**/AI_Detection_revisi_bab4_terurut_github_REVISI_12_19_21.ipynb
+apps/dektektor-ai-detection/backend/sebelumnya/**
+apps/dektektor-ai-detection/backend/sebelumnyav1/**
+apps/dektektor-ai-detection/frontend/sebelumnya/**
+apps/dektektor-ai-detection/frontend/sebelumnyav1/**

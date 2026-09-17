@@ -1,0 +1,98 @@
+row_index,doc_id,source_id,label_aktual,prediksi_fusi_penuh,probabilitas_AI_fusi_penuh,fusi_penuh_benar,kombinasi_penyelamat,diselamatkan_konfigurasi_3_fitur,diselamatkan_konfigurasi_2_fitur,diselamatkan_konfigurasi_1_fitur,jumlah_kombinasi_penyelamat,tetap_salah_di_semua_konfigurasi_alternatif
+56,56,28,0,1,0.9091280773315152,False,bert; sty+bert; tfidf+bert,False,True,True,3,False
+65,65,32,1,0,0.0007179125305954,False,,False,False,False,0,True
+130,130,65,0,1,0.7377091649679676,False,perp; bert+perp; tfidf+bert+perp,True,True,True,3,False
+156,156,78,1,0,0.0752505964813913,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; tfidf+bert+perp,True,True,True,7,False
+218,218,109,1,0,0.1011082300294946,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+268,268,134,1,0,0.3176354345283084,False,tfidf; bert; tfidf+bert; tfidf+bert+perp,True,True,True,4,False
+329,329,165,0,1,0.6459433574114288,False,sty; tfidf; bert; perp; sty+tfidf; sty+bert; tfidf+bert; tfidf+perp; sty+tfidf+bert,True,True,True,9,False
+422,422,211,1,0,0.0131784827579076,False,tfidf; bert; tfidf+bert,False,True,True,3,False
+425,425,213,0,1,0.8354929832391312,False,sty; tfidf; bert; sty+bert; tfidf+bert; bert+perp,False,True,True,6,False
+460,460,230,1,0,0.4629010168110643,False,tfidf; bert; sty+bert; tfidf+bert; sty+bert+perp,True,True,True,5,False
+463,463,232,0,1,0.9892135952270202,False,tfidf; bert; sty+bert; tfidf+bert,False,True,True,4,False
+552,552,276,1,0,0.3974610357107805,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; sty+tfidf+perp,True,True,True,7,False
+560,560,280,1,0,0.4515979758345772,False,tfidf; perp; sty+tfidf; tfidf+bert; tfidf+perp; sty+tfidf+perp,True,True,True,6,False
+588,588,294,1,0,0.354467853665746,False,sty; bert; sty+tfidf; sty+bert; sty+perp; tfidf+bert; sty+tfidf+bert; sty+bert+perp,True,True,True,8,False
+666,666,333,1,0,0.047598483601185,False,perp,False,False,True,1,False
+676,676,338,1,0,0.4349268412289774,False,tfidf; perp; sty+perp; tfidf+perp; sty+tfidf+perp; sty+bert+perp,True,True,True,6,False
+700,700,350,1,0,0.2915610255562881,False,tfidf; bert; perp; tfidf+bert; tfidf+perp; bert+perp; tfidf+bert+perp,True,True,True,7,False
+722,722,361,1,0,0.1140253723442024,False,sty+bert,False,True,False,1,False
+789,789,396,0,1,0.6966879329688551,False,sty; tfidf; bert; sty+tfidf; sty+bert; sty+perp; tfidf+bert; tfidf+perp; sty+tfidf+bert; sty+tfidf+perp,True,True,True,10,False
+835,835,419,0,1,0.9079297060405274,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,6,False
+903,903,454,0,1,0.5806544636088894,False,tfidf; perp; tfidf+perp; bert+perp; tfidf+bert+perp,True,True,True,5,False
+1066,1066,535,1,0,0.0345314682760354,False,tfidf; bert; tfidf+bert,False,True,True,3,False
+1108,1108,556,1,0,0.1243611672170271,False,bert; tfidf+bert; sty+tfidf+bert; tfidf+bert+perp,True,True,True,4,False
+1254,1254,629,1,0,0.1974216030065768,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+1435,1435,720,0,1,0.7260415010464809,False,bert; perp; bert+perp,False,True,True,3,False
+1585,1585,795,1,0,0.2608738523302349,False,tfidf; bert; perp; tfidf+bert; tfidf+perp; bert+perp; tfidf+bert+perp,True,True,True,7,False
+1651,1651,829,0,1,0.53643263527641,False,perp; sty+perp; tfidf+perp; bert+perp; sty+tfidf+perp,True,True,True,5,False
+1718,1718,862,1,0,0.213737662773521,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; bert+perp; sty+tfidf+bert; tfidf+bert+perp,True,True,True,8,False
+1775,1775,891,0,1,0.7954781356801576,False,tfidf; perp; sty+tfidf; tfidf+bert; sty+tfidf+bert,True,True,True,5,False
+1810,1810,908,1,0,0.0310628855458201,False,tfidf; bert,False,False,True,2,False
+1994,1994,1001,0,1,0.980519557028524,False,tfidf; sty+tfidf,False,True,True,2,False
+2102,2102,1055,0,1,0.5632325904687773,False,sty; tfidf; perp; sty+tfidf; sty+perp; tfidf+bert; sty+tfidf+bert; sty+tfidf+perp; sty+bert+perp,True,True,True,9,False
+2318,2318,1163,0,1,0.5380446691124963,False,sty; tfidf; bert; sty+tfidf; sty+bert; sty+perp; tfidf+bert; sty+tfidf+bert; sty+bert+perp,True,True,True,9,False
+2326,2326,1167,0,1,0.6313334805836128,False,sty+tfidf+perp,True,False,False,1,False
+2344,2344,1176,0,1,0.8662285734076938,False,sty; tfidf; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,6,False
+2350,2350,1179,0,1,0.6704313406865688,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+2429,2429,1219,0,1,0.8122864340814098,False,tfidf; bert; perp; sty+bert; tfidf+bert; bert+perp; sty+tfidf+bert; tfidf+bert+perp,True,True,True,8,False
+2462,2462,1235,1,0,0.0039745747599663,False,,False,False,False,0,True
+2533,2533,1271,1,0,0.1152506739524101,False,perp,False,False,True,1,False
+2626,2626,1318,0,1,0.5061647860173893,False,bert; perp; tfidf+perp; bert+perp; sty+bert+perp; tfidf+bert+perp,True,True,True,6,False
+2679,2679,1344,1,0,0.0254096048124803,False,tfidf,False,False,True,1,False
+2702,2702,1356,0,1,0.9811066108164762,False,tfidf; bert; sty+bert; tfidf+bert; bert+perp,False,True,True,5,False
+2775,2775,1392,1,0,0.2278566815889974,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; tfidf+perp; sty+tfidf+bert,True,True,True,8,False
+2781,2781,1395,1,0,0.0909088011630226,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,6,False
+2966,2966,1488,1,0,0.4697944916432507,False,perp; bert+perp; sty+tfidf+bert; sty+bert+perp; tfidf+bert+perp,True,True,True,5,False
+2986,2986,1498,1,0,0.4117255380498745,False,tfidf; bert; perp; tfidf+bert; tfidf+perp; sty+tfidf+perp; tfidf+bert+perp,True,True,True,7,False
+2998,2998,1504,1,0,0.4386442523348031,False,sty; sty+tfidf; sty+bert; sty+perp; bert+perp; sty+tfidf+bert; sty+bert+perp,True,True,True,7,False
+3012,3012,1511,1,0,0.1915549078516881,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+3014,3014,1512,1,0,0.3340459042455315,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; tfidf+perp; sty+tfidf+bert; sty+bert+perp; tfidf+bert+perp,True,True,True,9,False
+3033,3033,1522,0,1,0.587606072267194,False,sty; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; sty+bert+perp,True,True,True,7,False
+3133,3133,1572,0,1,0.9414016660271968,False,tfidf,False,False,True,1,False
+3136,3136,1573,1,0,0.2327645946569258,False,tfidf; bert; tfidf+bert; tfidf+perp; bert+perp; sty+tfidf+bert; tfidf+bert+perp,True,True,True,7,False
+3180,3180,1595,1,0,0.2155961203479016,False,tfidf; bert; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,5,False
+3245,3245,1628,1,0,0.4477397535731741,False,tfidf; perp; sty+perp; tfidf+perp; sty+tfidf+perp; tfidf+bert+perp,True,True,True,6,False
+3257,3257,1634,1,0,0.0349134281920085,False,,False,False,False,0,True
+3278,3278,1645,0,1,0.8809107868316317,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+3351,3351,1681,1,0,0.3477562435269922,False,bert; perp; sty+perp; bert+perp; sty+tfidf+perp; tfidf+bert+perp,True,True,True,6,False
+3398,3398,1705,1,0,0.3618215171814593,False,sty; tfidf; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; sty+tfidf+perp,True,True,True,7,False
+3440,3440,1726,1,0,0.074674136041457,False,tfidf; tfidf+perp,False,True,True,2,False
+3497,3497,1755,1,0,0.2132784447971718,False,bert; sty+bert; tfidf+bert; bert+perp; sty+tfidf+bert,True,True,True,5,False
+3500,3500,1757,0,1,0.7759439424972302,False,tfidf; bert; sty+bert; tfidf+bert; tfidf+perp; bert+perp; sty+tfidf+bert; tfidf+bert+perp,True,True,True,8,False
+3543,3543,1778,1,0,0.153526529316324,False,sty; tfidf; sty+tfidf; sty+bert; sty+tfidf+bert,True,True,True,5,False
+3641,3641,1827,1,0,0.1242787006275825,False,,False,False,False,0,True
+3665,3665,1839,1,0,0.4674139844400797,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; sty+bert+perp,True,True,True,8,False
+3687,3687,1850,1,0,0.0410702153276866,False,sty,False,False,True,1,False
+3707,3707,1860,1,0,0.040726177919606,False,sty,False,False,True,1,False
+3759,3759,1886,1,0,0.1088416457751234,False,tfidf; bert; perp; tfidf+bert; tfidf+perp; bert+perp; tfidf+bert+perp,True,True,True,7,False
+3793,3793,1903,1,0,0.359157882650217,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,6,False
+3934,3934,1974,1,0,0.2037885505647459,False,bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,5,False
+3936,3936,1975,1,0,0.3713817786128527,False,tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; sty+bert+perp,True,True,True,7,False
+3974,3974,1994,1,0,0.1487904053458344,False,sty; tfidf,False,False,True,2,False
+4018,4018,2016,1,0,0.3130933936956933,False,bert; perp; tfidf+bert; bert+perp; sty+tfidf+bert; tfidf+bert+perp,True,True,True,6,False
+4115,4115,2065,0,1,0.8898075087871906,False,perp; tfidf+perp,False,True,True,2,False
+4223,4223,2119,0,1,0.662988429639232,False,tfidf; bert; perp; tfidf+bert; tfidf+perp; bert+perp; tfidf+bert+perp,True,True,True,7,False
+4241,4241,2128,0,1,0.97455616813758,False,,False,False,False,0,True
+4277,4277,2146,0,1,0.6820890551651632,False,tfidf; sty+tfidf; tfidf+bert; tfidf+perp,False,True,True,4,False
+4358,4358,2186,1,0,0.2353293596231719,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; tfidf+bert+perp,True,True,True,8,False
+4449,4449,2232,1,0,0.1049575898320072,False,tfidf; bert; perp; tfidf+bert; tfidf+perp; bert+perp; tfidf+bert+perp,True,True,True,7,False
+4451,4451,2233,1,0,0.0220878472239409,False,tfidf; tfidf+bert,False,True,True,2,False
+4513,4513,2264,1,0,0.1302443781589442,False,tfidf; bert; tfidf+bert; tfidf+perp; tfidf+bert+perp,True,True,True,5,False
+4686,4686,2351,0,1,0.856901107793262,False,tfidf; bert; sty+bert; tfidf+bert; tfidf+perp; sty+tfidf+bert; tfidf+bert+perp,True,True,True,7,False
+4742,4742,2379,0,1,0.504889134484286,False,sty; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert; sty+tfidf+perp,True,True,True,6,False
+4761,4761,2388,1,0,0.1352326259912354,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+4804,4804,2410,0,1,0.7303083344200961,False,sty; tfidf; sty+tfidf; sty+bert; sty+tfidf+bert,True,True,True,5,False
+4815,4815,2415,1,0,0.1465340076732292,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+4849,4849,2433,0,1,0.7633691509125148,False,sty; tfidf; perp; sty+tfidf; sty+bert; tfidf+perp; sty+tfidf+bert,True,True,True,7,False
+5001,5001,2509,1,0,0.4381085893091987,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; tfidf+perp; sty+tfidf+bert; sty+tfidf+perp; tfidf+bert+perp,True,True,True,10,False
+5025,5025,2522,0,1,0.7114715272376516,False,perp; sty+perp; bert+perp; sty+bert+perp,True,True,True,4,False
+5053,5053,2536,0,1,0.872990080692631,False,tfidf; bert; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,5,False
+5093,5093,2556,0,1,0.9075182925147772,False,tfidf; tfidf+perp,False,True,True,2,False
+5185,5185,2602,0,1,0.9121626243452072,False,tfidf; bert; sty+bert; tfidf+bert; tfidf+perp; bert+perp; sty+tfidf+bert; tfidf+bert+perp,True,True,True,8,False
+5201,5201,2610,0,1,0.8723247580613152,False,sty,False,False,True,1,False
+5407,5407,2713,1,0,0.1767301112232183,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; sty+tfidf+bert,True,True,True,7,False
+5420,5420,2720,0,1,0.8660625261331023,False,tfidf; bert; tfidf+bert; tfidf+bert+perp,True,True,True,4,False
+5734,5734,2877,0,1,0.5943466240603855,False,sty; tfidf; bert; sty+tfidf; sty+bert; tfidf+bert; bert+perp; sty+tfidf+bert; sty+bert+perp,True,True,True,9,False
+5870,5870,2945,0,1,0.7034683114091731,False,sty; bert; sty+bert; sty+perp; tfidf+bert; sty+tfidf+bert,True,True,True,6,False
+5928,5928,2974,1,0,0.0655626763405644,False,sty; sty+bert,False,True,True,2,False

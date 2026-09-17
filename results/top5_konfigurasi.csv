@@ -1,0 +1,6 @@
+rank,model,kombinasi,feature_label,n_fitur,f1_macro_mean,f1_macro_std
+1,CatBoost,sty+tfidf+bert+perp,Sty + TF-IDF + BERT + Perp,4,0.98378,0.0015221695043588178
+2,CatBoost,sty+bert+perp,Sty + BERT + Perp,3,0.98292,0.002389979079406364
+3,XGBoost,sty+tfidf+bert+perp,Sty + TF-IDF + BERT + Perp,4,0.9827600000000001,0.001709678332318669
+4,CatBoost,sty+tfidf+perp,Sty + TF-IDF + Perp,3,0.9814399999999999,0.0022400892839349006
+5,XGBoost,sty+bert+perp,Sty + BERT + Perp,3,0.9807600000000001,0.0039035880930241643
