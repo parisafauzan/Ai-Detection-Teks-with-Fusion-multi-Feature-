@@ -254,22 +254,22 @@ A permanent software citation should be added after the GitHub release has been 
 Suggested citation format:
 
 ```text
-Author(s). (2026). Detection of AI-Generated Indonesian News Using
-Multi-Feature Fusion (Version X.Y.Z) [Software]. Zenodo.
-https://doi.org/10.5281/zenodo.REPLACE_WITH_RECORD_ID
+J. Pardede and P. Achmad Fauzan. (2026). Detection of AI-Generated Indonesian News Using
+Multi-Feature Fusion (Version 1.0.2) [Software]. Zenodo.
+https://doi.org/10.5281/zenodo.22804244
 ```
 
 Suggested BibTeX template:
 
 ```bibtex
 @software{ai_generated_indonesian_news_detection_2026,
-  author    = {REPLACE WITH CREATOR NAMES},
+  author    = {Jasman pardede, and Paris Achmad F}
   title     = {Detection of AI-Generated Indonesian News Using Multi-Feature Fusion},
   year      = {2026},
-  version   = {X.Y.Z},
+  version   = {1.0.2},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.REPLACE_WITH_RECORD_ID},
-  url       = {https://doi.org/10.5281/zenodo.REPLACE_WITH_RECORD_ID}
+  doi       = {10.5281/zenodo.22804244},
+  url       = {https://doi.org/10.5281/zenodo.22804244}
 }
 ```
 
